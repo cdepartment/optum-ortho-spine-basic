@@ -1,0 +1,56 @@
+/*Misc AC */
+.center-text-columns{
+  text-align: center!important;
+  h5{
+    display: block;
+    text-transform: uppercase!important;
+    letter-spacing: 2.75px!important;
+    font-weight: bold!important;
+    margin-bottom: 9px!important;
+  }
+  ul{
+    list-style-type: none;
+    margin: 20px 0;
+    padding: 0;
+    li{
+      // margin: -12px;
+      font-size: 14px!important;
+      line-height: 19px;
+    }
+  }
+}
+
+.phone-number-list{
+  padding-top: 20px;
+  p{
+    padding:10px;
+  }
+}
+
+.phone-number{
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.link-spacing{
+  ul {
+    padding: 0;
+    list-style-type: none;
+
+    li {
+      padding: 5px 0;
+      font-family: 'Open Sans', sans-serif !important;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 19px;
+      color: #000;
+    }
+  }
+}
+
+.icon-headings{
+  h4{
+    padding-top:20px;
+  }
+}
